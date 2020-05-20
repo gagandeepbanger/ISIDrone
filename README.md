@@ -1,5 +1,18 @@
 # ISIDrone
+Version 1.0.0
 
-This is a ecommerce application where customers can buy products and admin can make changes to the apllication like he/she can delete, add, modify and hide products they can also see the sales reports.
+ISIDrone is an ecommerce website where customers can buy drones by adding items to cart. Admin user can add, modify and delete items sold in the website. The admin user can also manage categories, orders and customers through the website. In this project I worked on the functionality for the admin user to either add, delete, view and modify Products and Orders.
 
-Technologies used :- Java, SQL.
+**Languages and Technologies used: JAVA, JSP, Servlet, MAVEN, MySQL, JavaScript, GIT, BitBucket, Putty, WinSCP and Jenkins.
+
+
+Bitbucket Link : https://bitbucket.org/isiteachers/devint-en-yellow/src/master/
+
+Contributors
+- Dawn N Mathews
+- Trinadha Reddy
+- Loveleen Kaur
+- Gaganpreet kaur
+- Gagandeep banger
+License & copyright
+© Dawn N Mathews,Gagandeep banger, Trinadha Reddy, Loveleen Kaur, Gaganpreet kaur
